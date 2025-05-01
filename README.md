@@ -1,0 +1,2 @@
+# flowise
+Akıllı Araştırma Asistanı
