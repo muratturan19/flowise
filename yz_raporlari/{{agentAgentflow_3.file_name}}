@@ -6,83 +6,85 @@
 
 ### YÖNETİCİ ÖZETİ
 
-Mevcut Durum: Poyraz Yazılım ve Danışmanlık, genç ve dinamik kadrosuna rağmen kurumsal süreçlerde olgunlaşma eksikliği çekmektedir. Şirketin strateji belgeleri ve vizyon planları konusunda boşluklar bulunmaktadır. Regülasyon takibi ve YZ entegrasyonu konusunda farkındalık ve teknik kapasite yetersizdir.
+**Mevcut Durum:** Poyraz Yazılım ve Danışmanlık, genç ve dinamik bir kadroya sahip olmasına rağmen kurumsal süreçlerde olgunlaşma eksikliği yaşıyor. Strateji belgeleri, vizyon planları veya iç yönergeler eksik. Teknik altyapı, YZ entegrasyonunu destekleyecek düzeyde değil. Regülasyon takibi zayıf; kişisel veriler ve YZ konularında yasal farkındalık sınırlı.
 
-Kritik Bulgular:
+**Kritik Bulgular:**
 - En zayıf alanlar: Regülasyon ve Altyapı
 - Acil müdahale gereken seviye: Seviye 2
-- Stratejik öncelik: Kurumsal süreçlerin olgunlaştırılması ve altyapının güçlenmesi
+- Stratejik öncelik: Stratejik belgelerin oluşturulması ve altyapının geliştirilmesi
 
-Önerilen Yaklaşım: Şirketin öncelikli olarak regülasyon uyumunu artırması ve altyapı yatırımlarına odaklanarak YZ entegrasyonu için gerekli zemini hazırlaması gerekmektedir. Bu süreç, stratejik belgelerin oluşturulması ve kurumsal dil gelişimini de kapsayacak şekilde planlanmalıdır.
+**Önerilen Yaklaşım:** Şirket, regülasyon uyumunu ve teknik altyapısını güçlendirmek üzere kapsamlı bir stratejik plan geliştirmeli ve uygulamalıdır. Bu kapsamda, yasal uyum süreçlerini yönetecek bir ekip kurulmalı ve altyapı yatırımlarına öncelik verilmelidir.
 
 ---
 
 ### DETAYLI ANALİZ
 
 #### 1. Regülasyon
+**Mevcut Seviye:** Seviye 2  
+**Skor:** 28/100
 
-Mevcut Seviye: Seviye 2  
-Skor: 28/100  
-Durum Değerlendirmesi: Regülasyon takibi eksikliği, yasal uyumda ciddi riskler doğurmakta, özellikle veri koruma ve YZ ile ilgili yasal çerçevelere uyum sağlamakta zorluk yaşanmaktadır. 
+**Durum Değerlendirmesi:** Poyraz Yazılım ve Danışmanlık, yasal düzenlemeler ve veri koruma kuralları hakkında sınırlı farkındalık ve uyum gösteriyor. Bu durum, potansiyel uyumsuzluk risklerini artırıyor ve kurumsal sürdürülebilirliği tehdit ediyor.
 
-Stratejik Öneriler:
-1. **Uyum Çerçevesi Oluşturma**: Şirketin faaliyet gösterdiği sektördeki yasal gereklilikleri karşılamak için kapsamlı bir uyum çerçevesi geliştirilecek.
-2. **Farkındalık Eğitimleri**: Veri koruma ve YZ regülasyonlarına dair tüm çalışanlar için düzenli eğitim programları oluşturulacak.
-3. **İzleme ve Denetim Mekanizmaları**: Düzenli iç denetim ve regülasyon uyum raporlama süreçleri başlatılacak.
+**Stratejik Öneriler:**
+1. **Yasal Çerçevenin Oluşturulması:** Şirket, veri koruma ve yapay zekâ regülasyonları hakkında bir uyum çerçevesi oluşturacak. 
+2. **Regülasyon Farkındalık Eğitimleri:** Çalışanların, düzenli eğitimlerle yasal çerçeveye dair bilgi düzeyleri artırılacak.
+3. **İzleme ve Denetim Süreçleri:** Düzenli iç denetimler yapılarak uyum durumları kontrol edilecek.
 
-Uygulama Zorluklarına Karşı Hazırlık:
-- Bireysel inisiyatif yerine kurumsal süreçlerin benimsenmesi direnci.
-- Yasal değişikliklerin hızlı takibi ve uygulama zorlukları.
-- Eğitim katılımını artırma stratejileri.
+**Uygulama Zorluklarına Karşı Hazırlık:**
+- Bireysel inisiyatiflerin yerine kurumsal süreçlerin oluşturulması zorlu olabilir.
+- Regülasyon takibinde süreklilik sağlamak önemli bir engel teşkil edebilir.
+- Proaktif bir hukuk ekibinin oluşturulması gerekecektir.
 
 ---
 
 #### 2. Altyapı
+**Mevcut Seviye:** Seviye 2  
+**Skor:** 36/100
 
-Mevcut Seviye: Seviye 2  
-Skor: 36/100  
-Durum Değerlendirmesi: Teknik altyapı, modern YZ projelerini destekleyecek kapasitede değildir ve bu durum yenilikçi girişimleri sınırlamaktadır.
+**Durum Değerlendirmesi:** Teknik altyapı, YZ entegrasyonunu destekleyecek seviyede değil ve bu durum yenilikçi projelerin hayata geçirilmesinde önemli bir engel oluşturuyor.
 
-Stratejik Öneriler:
-1. **Altyapı Modernizasyonu**: Mevcut sistemlerin yenilenmesi ve bulut tabanlı çözümlerle altyapının güncellenmesi.
-2. **YZ Destekli Sistem Kurulumu**: YZ entegrasyonunu destekleyebilecek donanım ve yazılım yatırımlarının yapılması.
-3. **İyileştirme Yol Haritası**: Altyapının aşamalı olarak güçlendirilmesini içeren bir proje planı geliştirilmesi.
+**Stratejik Öneriler:**
+1. **Altyapı İyileştirme Projesi:** Mevcut teknik altyapının analizi yapılarak, yenileme projeleri başlatılacak.
+2. **Bulut Tabinlı Çözümler:** Altyapı güçlendirilmesi için bulut tabanlı çözümler değerlendirilecek.
+3. **YZ Uyumlu Sistemlerin Kurulması:** Yapay zekâ projelerini destekleyecek şekilde sistemler kurulacak ve entegre edilecek.
 
-Uygulama Zorluklarına Karşı Hazırlık:
-- Altyapı değişikliklerinin süreklilik ve operasyonel süreçlere etkisi.
-- Teknik eğitimlerin gerekliliği ve yeni teknolojilerin benimsenmesi.
-- Yatırımların maliyet ve fayda analizi.
+**Uygulama Zorluklarına Karşı Hazırlık:**
+- Altyapı dönüşümünün iş sürekliliğini aksatmadan gerçekleşmesi gerekir.
+- Yeni teknolojilerin organizasyonel olarak benimsenmesi için personele yönelik eğitimler gerekebilir.
+- Gelişmiş altyapı için mali kaynakların planlanması önem arz eder.
 
 ---
 
 ### EYLEM PLANI
 
 **İLK 30 GÜN (Acil Adımlar):**
-1. Mevcut regülasyon uyum durumunun raporlanması.
-2. Altyapı gereksinimlerinin değerlendirilmesi.
-3. Yasal eğitim planlarının oluşturulması.
+1. Regülasyon uyumunu inceleyecek ve geliştirecek bir iç ekip ve rol tanımları oluşturulacak.
+2. Altyapı durumu analizi yapılarak öncelikli geliştirme ihtiyaçları belirlenecek.
+3. Eğitim planları oluşturulacak ve yasal farkındalık artırılacak.
 
 **İLK 90 GÜN (Temel Yapı):**
-- Regülasyon uyum çerçevesinin hayata geçirilmesi.
-- Altyapı yenileme stratejisinin belirlenmesi.
-- İlk eğitim serilerinin uygulanması ve geri bildirimlerin ölçülmesi.
+- Regülasyon gereksinimlerine uyum sağlamak için politika dökümantasyonu yapılacak.
+- Altyapı geliştirme projesi için tedarikçi/partner seçimleri yapılarak projeler başlatılacak.
+- Süreçlerin kurumsal düzeye çekilmesi için ortak dil ve iletişim standartları belirlenip uygulanacak.
 
 **6 AYLIK HEDEFLER (Sürdürülebilirlik):**
-- Yasal uyumun sürdürülmesi ve denetiminin sağlanması.
-- Altyapının modernizasyonunun tamamlanması ve YZ projelerine hazır hale getirilmesi.
-- Kurumsal süreçlerin belgelendirilmesi ve sürdürülebilir hale getirilmesi.
+- Regülasyona tam uyum sağlanması.
+- YZ projelerini destekleyecek teknik altyapının tam fonksiyonel hale getirilmesi.
+- Kurumsal yönergelerin oluşturulması ve eğitimlerle çalışanların süreçlere adaptasyonu.
 
 ---
 
 ### SONUÇ VE ÖNERİLER
 
-Kritik Karar Noktası: Poyraz Yazılım, genç ve dinamik avantajını kullanarak strateji belgelerini geliştirmeli, regülasyon ve altyapı konularındaki eksikliklerini hızla gidermelidir.
+**Kritik Karar Noktası:** Poyraz Yazılım ve Danışmanlık, dinamik yapısını korurken kurumsal programlarını olgunlaştırarak uyum ve sürdürülebilirliği artırmalı.
 
-Yönetim Eylemi:
-1. Stratejik belgelerin ve yönergelerin oluşturulması.
-2. Regülasyon uyum ve altyapı geliştirme süreçlerinin liderliğinin yapılması.
-3. Eğitim programlarının ve kültürel uyumun desteklenmesi.
+**Yönetim Eylemi:**
+1. Regülasyon uyumu için uyum ekibi oluşturulacak.
+2. Altyapı iyileştirme için gerekli bütçeler belirlenerek yatırımlar başlatılacak.
+3. Stratejik belgeler ve süreç dokümantasyonu yapılacak.
 
-Başarı Göstergeleri: İlk 3 ay sonunda regülasyona uyumda %30 iyileşme, altyapı iyileştirme çalışmalarında %40 ilerleme; 6 ay sonunda denetimlerde sıfır kritik bulgu ve YZ projelerinde %60 altyapı desteği sağlanması.
+**Başarı Göstergeleri:** 3 ay sonunda regülasyon uyumunda %30 ilerleme, altyapı gelişiminde kaydedilen %40 artış ve YZ teknolojisini destekleyecek düzeyde altyapı.
 
-Bu rapor, mevcut YZ olgunluk seviyenize göre özelleştirilmiş stratejik bir yol haritasıdır. Düzenli gözden geçirme ve güncelleme yapılması önerilir.
+---
+
+Bu rapor, mevcut YZ olgunluk seviyenize göre özelleştirilmiş stratejik yol haritasıdır. Uygulama sürecinde düzenli gözden geçirme ve güncelleme yapılması önerilir.
